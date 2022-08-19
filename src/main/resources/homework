@@ -1,0 +1,15 @@
+having Person(firstName, lastName, age, city)
+        build Person Service that will have the following functionality.
+        Each operation will return the requested list, if you want to print it, do it in Main.
+        - list all the persons names: firstName lastName
+        - list all persons that are major
+        - list all persons from Oradea
+        - list all persons from Oradea OR Cluj
+        - list all firstNames CAPITALIZED
+        - list all person names: firstName first letter from last name: Stefan B.
+        - list all persons with 18 < age < 60
+        - list all persons having first name starting with A
+        - list all first names UNIQUELY
+        - sort the persons by first name
+        - sort the persons by last name
+        - sort the persons by first name, last name and then age
